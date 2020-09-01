@@ -1,0 +1,1 @@
+The reffy-reports project moved to the W3C organization and the Markdown report is now available at [https://w3c.github.io/webref/tr/index.md](https://w3c.github.io/webref/tr/index.md). Please update your pointers accordinly!
